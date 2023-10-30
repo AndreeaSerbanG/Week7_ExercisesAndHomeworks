@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstOOPex_AfisareStareObiecte/FirstOOPex_AfisareStareObiecte.iml" filepath="$PROJECT_DIR$/FirstOOPex_AfisareStareObiecte/FirstOOPex_AfisareStareObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sapt 7 - Exercitii si teme.iml" filepath="$PROJECT_DIR$/.idea/Sapt 7 - Exercitii si teme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondOOPex_TestareProfilUtilizator/SecondOOPex_TestareProfilUtilizator.iml" filepath="$PROJECT_DIR$/SecondOOPex_TestareProfilUtilizator/SecondOOPex_TestareProfilUtilizator.iml" />
+    </modules>
+  </component>
+</project>
